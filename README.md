@@ -77,13 +77,20 @@ o	Causality in Materials Science and Experimental Design
 o	Connecting Causal Models, Knowledge Graphs, and Agentic Decision-Making
 
 The case studies throughout the course will be:
+
 •	ML for imaging and characterization: using ML to analyze microscopy, spectroscopy, and diffraction data, from post-acquisition analysis to real-time and automated microscope workflows.
+
 •	Agentic workflows for science: introducing ML agents that can use tools, follow workflows, assist with planning, and connect scientific goals to executable actions.
+
 •	Automated synthesis and characterization: exploring how automated instruments, workflow design, and feedback loops enable automated labs and user facilities.
+
 •	Materials informatics resources: learning how databases such as Materials Project, JARVIS, and AFLOW can be used for materials screening, property prediction, and ML-ready datasets.
+
 •	Theory-based datasets: using QM9 as an example of how molecular structure can be connected to quantum-mechanical properties through ML.
+
 •	LLMs for scientific text: using large language models to extract information from papers, reports, and lab records, and to connect text-based knowledge with structured data and workflows.
-•	
+
+
 Prerequisites:
 To be successful in this course you will need a general background in materials science, chemistry, or condensed matter physics. Homeworks, midterms, and finals will allow flexibility in choosing the problems that match your domain expertise. Python or similar programming experience, while not essential, will be extremely useful. Students without any prior programming experience should expect to spend extra time outside of class learning basic skills (but ChatGPT will help!). 
 
@@ -110,7 +117,7 @@ Value Proposition:
 Learning Environment:
 The class will be delivered as in-person lectures and recorded by Zoom. The Jupyter notebooks, code libraries, and videos will be provided. Weekly programming exercises will be assigned via Google Colabs (please submit to sergei2vk@gmail.com ) and those students wishing to interact with the instructor in person should attend office hours (please set by e-mail sergei2@utk.edu ). 
 
-Use of ChatGPT and code assistants:
+Use of ChatGPT, agents, and code assistants:
 Strongly encouraged both for programming and written assignments. However, the students have to be aware of the limitations of the generative models.
 
 Canvas: 
@@ -118,16 +125,17 @@ All course details, assignments, lecture notes and announcements will be availab
 
 Reference Materials:
 I will provide copies of lecture notes, presentations, and Colabs on GitHub and Canvas. There is no specific textbook for the course and we will take material from a variety of sources including: 
+
 •	Andrew Bird et al, Python Workshop, https://www.packtpub.com/product/the-python-workshop/9781839218859
+
 •	Sebastian Raschka, Machine Learning with PyTorch and Scikit-Learn, https://subscription.packtpub.com/book/data/9781801819312/1 
+
 •	Rowel Atienza, Advanced Deep Learning with TensorFlow 2 and Keras - Second Edition, https://www.packtpub.com/product/advanced-deep-learning-with-tensorflow-2-and-keras-second-edition/9781838821654
+
 •	(Optional) Alaa Khamis, Optimization Algorithms: AI Techniques for Design, Planning, and Control Problems, https://www.manning.com/books/optimization-algorithms 
+
 •	(Optional)  Peter Norvig, Artificial Intelligence: A Modern Approach, Global Edition, https://www.amazon.com/Artificial-Intelligence-Modern-Approach-Global/dp/1292401133
 
-Grading & Policies:
-•	Homework assignments	 		40% 
-•	Mid-terms (2)					30%
-•	Final Project & Presentation 			30% 
 
 Assignments:
 •	All assignments will be submitted as Google Colabs to sergei2vk@gmail.com (using Gmail allows to avoid lengthy authorization process)
